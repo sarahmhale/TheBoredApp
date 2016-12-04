@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Bored App</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_stuff_to_do">addStuffToDo</string>
+    <string name="edit_message">Enter something to do</string>
+    <string name="button_send">OK </string>
+</resources>
